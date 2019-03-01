@@ -24,4 +24,3 @@ end
 # description: project.css("p.bbcard_blurb").text
 #location: project.css("ul.project-meta span.location-name").text 
 #project.css("ul.project-stats li.first.funded strong").text.gsubrequire 'nokogiri'
-("%", "").to_i
